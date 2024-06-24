@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DHughes666/timey_dep2.git/static/css/main.fc5d63c1.css",
+    "main.js": "/DHughes666/timey_dep2.git/static/js/main.0ce0ed07.js",
+    "static/media/timetable.PNG": "/DHughes666/timey_dep2.git/static/media/timetable.8885071b0a6637e165b5.PNG",
+    "static/media/Logo2.svg": "/DHughes666/timey_dep2.git/static/media/Logo2.e01cf175702f43aed5d2f0e9137f4fff.svg",
+    "index.html": "/DHughes666/timey_dep2.git/index.html",
+    "main.fc5d63c1.css.map": "/DHughes666/timey_dep2.git/static/css/main.fc5d63c1.css.map",
+    "main.0ce0ed07.js.map": "/DHughes666/timey_dep2.git/static/js/main.0ce0ed07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5d63c1.css",
+    "static/js/main.0ce0ed07.js"
+  ]
+}
